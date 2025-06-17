@@ -8,6 +8,7 @@ Este repositório apresenta a solução para o desafio **"Remover Duplicatas de 
 
 - Caroliny Gonçalves
 - Juliana Ramos
+- Najla Guimarães
 - Marcelo Costa
 - Michel Gonçalves
 - Thainara Cruz
